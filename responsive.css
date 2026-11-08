@@ -25,6 +25,8 @@ h1 {
   max-width: 192rem;
   margin: 0 auto;
   padding: 0rem;
+  color: black;
+  opacity: 30%;
 }
 
 /* HERO */
