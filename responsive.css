@@ -164,7 +164,7 @@ html {
   gap: 15px;                   /* Space between images */
   padding: 10px;
   border-radius: 8px;
-  border: 5px solid yellow;
+  border: 5px solid #f9c000;
    /* Adjust thickness, style, and color as needed */
  /* border-radius: 12px;     Increased radius slightly for a smoother look */
 }
