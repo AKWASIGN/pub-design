@@ -24,9 +24,9 @@ h1 {
 .page-wrapper {
   max-width: 192rem;
   margin: 0 auto;
-  padding: 0rem;
-  background-color: rgba(0, 0, 0, 0);
-  
+  padding: 5rem;
+  background-color: rgba(1, 1, 1, 1);
+  border-radius: 10px;  
 }
 
 /* HERO */
